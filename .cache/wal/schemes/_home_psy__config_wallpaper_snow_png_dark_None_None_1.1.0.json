@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/psy/.config/wallpaper/snow.png",
+    "alpha": "100",
+    "special": {
+        "background": "#371a10",
+        "foreground": "#cfe1e3",
+        "cursor": "#cfe1e3"
+    },
+    "colors": {
+        "color0": "#371a10",
+        "color1": "#5CA0AF",
+        "color2": "#72B8C5",
+        "color3": "#77C3CE",
+        "color4": "#A0B3B4",
+        "color5": "#91BBC6",
+        "color6": "#8FCAD3",
+        "color7": "#cfe1e3",
+        "color8": "#909d9e",
+        "color9": "#5CA0AF",
+        "color10": "#72B8C5",
+        "color11": "#77C3CE",
+        "color12": "#A0B3B4",
+        "color13": "#91BBC6",
+        "color14": "#8FCAD3",
+        "color15": "#cfe1e3"
+    }
+}

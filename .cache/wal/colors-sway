@@ -1,0 +1,21 @@
+set $wallpaper /home/psy/.config/wallpaper/forest_fox.jpg
+
+set $background #0b0f18
+set $foreground #e0dcd0
+
+set $color0 #0b0f18
+set $color1 #A94F34
+set $color2 #966859
+set $color3 #A09473
+set $color4 #DBAA54
+set $color5 #728082
+set $color6 #A0A394
+set $color7 #e0dcd0
+set $color8 #9c9a91
+set $color9 #A94F34
+set $color10 #966859
+set $color11 #A09473
+set $color12 #DBAA54
+set $color13 #728082
+set $color14 #A0A394
+set $color15 #e0dcd0
